@@ -17,7 +17,7 @@ Below is a unified comparison table for all models, with placeholders for
 | **SA_LSTM_WITH_LOADEST** | 0.98 | 0.97 | 0.98 | 0.98 | 326,961 | <img width="613" height="547" alt="2178a7e8-ab91-4bda-b56a-9f9f134f8452" src="https://github.com/user-attachments/assets/3605c3ce-7088-4f8f-ab9d-c7ac4e59631f" />|  <img width="540" height="470" alt="10ee561d-198e-419c-a6b2-8e4ce20c78c7" src="https://github.com/user-attachments/assets/4563c79c-a46d-4c97-af1d-fcf02c5ce503" />|
 | **SBiLSTM** | 0.99517 | 0.98 | 0.97 | 0.98 | 408,688 | <img width="702" height="547" alt="0b0711fc-215e-49b1-b83f-634d7a163dc9" src="https://github.com/user-attachments/assets/12fdb6f1-5e81-4d93-80ca-f9493b3ee04a" />|<img width="565" height="451" alt="2874c33f-8f7a-4211-8069-7ce77f802e01" src="https://github.com/user-attachments/assets/04fd1128-785d-46e5-8e75-63d8e8b2d54c" />|
 | **VBAED** | .99 | 0.98 | 0.98 | 0.98 | 544,935 |<img width="613" height="547" alt="2808d22b-2d84-48c1-8fdc-3dfbdb1186f9" src="https://github.com/user-attachments/assets/a8d5bf57-0c92-4172-9993-28f8b2373e49" />
- | 
+  
 
 ---
 
