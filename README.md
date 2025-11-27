@@ -1,12 +1,12 @@
 # Water-management-agent
-# 🔬 Water Quality Models Benchmark
+#  Water Quality Models Benchmark
 
 Below is a unified comparison table for all models, with placeholders for  
 **ROC curves** and **Confusion Matrices** (upload your images inside the `images/` folder).
 
 ---
 
-## 📊 Benchmark Summary Table
+##  Benchmark Summary Table
 
 | Model | Accuracy | Macro Precision | Macro Recall | Macro F1 | Support | ROC Curve | Confusion Matrix |
 |-------|----------|------------------|--------------|----------|----------|-----------|------------------|
