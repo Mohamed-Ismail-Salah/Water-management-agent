@@ -2,7 +2,7 @@
 #  Water Quality Models Benchmark
 
 Below is a unified comparison table for all models, with placeholders for  
-**ROC curves** and **Confusion Matrices 
+**ROC curves** and Confusion Matrices 
 
 ---
 
